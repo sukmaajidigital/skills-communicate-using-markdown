@@ -17,3 +17,10 @@ nothing to commit, working tree clean
 ```python
 print("Hello, Markdown!")
 ```
+
+# Contoh Task List
+
+- [x] Menambahkan header
+- [x] Menambahkan gambar
+- [x] Menambahkan code block
+- [ ] Menambahkan task list
