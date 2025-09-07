@@ -23,4 +23,4 @@ print("Hello, Markdown!")
 - [x] Menambahkan header
 - [x] Menambahkan gambar
 - [x] Menambahkan code block
-- [ ] Menambahkan task list
+- [x] Menambahkan task list
